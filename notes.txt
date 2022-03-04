@@ -1,0 +1,18 @@
+
+    "LicenseAgreement": {
+      "SaveAgreement": "http://licenseagreementapi.misa.com.vn.local/api/agreement/saveagreement", // Lưu thông tin license
+      "GetLastestLicenseAgreement": "http://licenseagreementapi.misa.com.vn.local/api/agreement/getlastestlicenseagreement", // Lấy thông tin license mới nhất
+      "GetLinkAgreementHistory": "http://licenseagreementapi.misa.com.vn.local/api/agreement/getlinkagreementhistory",
+      "GetUserAgreementHistory": "http://licenseagreementapi.misa.com.vn.local/api/agreement/getuseragreementhistory", // Lấy lịch sử xem đã thực hiện thỏa thuận sử dụng hay chưa
+      "UrlUserAgreementHistory": "https://licenseagreement.misa.com.vn/useragreementhistory.aspx", //URL tra cứu lịch sử thỏa thuận
+      
+      // "SaveAgreement": "", // Lưu thông tin license
+      // "GetLastestLicenseAgreement": "", // Lấy thông tin license mới nhất
+      // "GetLinkAgreementHistory": "",
+      // "GetUserAgreementHistory": "", // Lấy lịch sử xem đã thực hiện thỏa thuận sử dụng hay chưa
+      // "UrlUserAgreementHistory": "https://licenseagreement.misa.com.vn/useragreementhistory.aspx", //URL tra cứu lịch sử thỏa thuận
+      
+      
+      "ServiceToken": "FE1DF935-1D0B-4EB5-A867-2CDE5BF9EC6F",
+      "SecretToken": "D590EEA5-DE44-4FFF-8D5D-36BCBFB674F8"
+    },
