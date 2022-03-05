@@ -1,18 +1,9 @@
-
-    "LicenseAgreement": {
-      "SaveAgreement": "http://licenseagreementapi.misa.com.vn.local/api/agreement/saveagreement", // Lưu thông tin license
-      "GetLastestLicenseAgreement": "http://licenseagreementapi.misa.com.vn.local/api/agreement/getlastestlicenseagreement", // Lấy thông tin license mới nhất
-      "GetLinkAgreementHistory": "http://licenseagreementapi.misa.com.vn.local/api/agreement/getlinkagreementhistory",
-      "GetUserAgreementHistory": "http://licenseagreementapi.misa.com.vn.local/api/agreement/getuseragreementhistory", // Lấy lịch sử xem đã thực hiện thỏa thuận sử dụng hay chưa
-      "UrlUserAgreementHistory": "https://licenseagreement.misa.com.vn/useragreementhistory.aspx", //URL tra cứu lịch sử thỏa thuận
-      
-      // "SaveAgreement": "", // Lưu thông tin license
-      // "GetLastestLicenseAgreement": "", // Lấy thông tin license mới nhất
-      // "GetLinkAgreementHistory": "",
-      // "GetUserAgreementHistory": "", // Lấy lịch sử xem đã thực hiện thỏa thuận sử dụng hay chưa
-      // "UrlUserAgreementHistory": "https://licenseagreement.misa.com.vn/useragreementhistory.aspx", //URL tra cứu lịch sử thỏa thuận
-      
-      
-      "ServiceToken": "FE1DF935-1D0B-4EB5-A867-2CDE5BF9EC6F",
-      "SecretToken": "D590EEA5-DE44-4FFF-8D5D-36BCBFB674F8"
-    },
+2022-03-05 20:08:01.7098|0|ERROR|MISA.X1.Library.Services.LogService| System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at MISA.X1.Core.BL.ReportSubmitBL.<>c__DisplayClass135_0.<GetJsonUpdateB04BCTCTH>b__10(B04BCTCTHRow x)
+   at System.Linq.Enumerable.SelectListIterator`2.ToList()
+   at MISA.X1.Core.BL.ReportSubmitBL.GetJsonUpdateB04BCTCTH(String dataJson, List`1 data, String budgetChapterCode, List`1 dtReceivedB04TH, String mode)
+   at MISA.X1.Core.BL.ReportSubmitBL.UpdateDataReport(String reportID, String organizationID, Int32 reportYear, Int32 reportPeriod, List`1 data, String budgetChapterCode, String mode)
+   at MISA.X1.Core.BL.ReportSubmitBL.InsertReportSendToReportSubmit(String orgarnizationId, Int32 reportYear, Int32 reportPeriod)
+   at MISA.X1.Core.Api.Controllers.ReportSubmitController.ReportSubmitCreateReport(Dictionary`2 param)|MISA.X1.Library.Services.LogService.LogError
