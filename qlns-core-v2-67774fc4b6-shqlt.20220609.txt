@@ -1,0 +1,1935 @@
+ - Start core - 06/03/2022 17:11:09
+ - OSDescription: Linux 5.4.0-104-generic #118-Ubuntu SMP Wed Mar 2 19:02:41 UTC 2022
+ - Common language runtime: 3.1.13
+ - .NET installation: .NET Core 3.1.13
+http://qlns-config-v2-svc:3000/config/SharedConfig.json
+http://qlns-config-v2-svc:3000/config/SharedConfig.Production.json
+http://qlns-config-v2-svc:3000/config/core/appsettings.json
+http://qlns-config-v2-svc:3000/config/core/appsettings.Production.json
+ - Environmen: Production
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100009
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100009
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100009
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100009
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100014
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100014
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100014
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100014
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1107441
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067166
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1112906
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122213
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1033940
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1079864
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1093755
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1084728
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122213
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1079864
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1084443
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS29979528d1489f7-55ba-4f6c-a29b-bc992300e83d&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1112906
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1107441
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS11074418d1489f7-55ba-4f6c-a29b-bc992300e83d&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1041167
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1022144
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10221445a58f193-5287-4fac-8aec-57b87b0e9239&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1029109
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1034048
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999546
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999546
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1112451
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1041167
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122213
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1047494
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072775.1
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072775
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1118022
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1047491
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999546
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1079179
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067166
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122365
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072548
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999543
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999543
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999550
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999550
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1075358
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1031966
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1034048
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999546
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999546
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122365
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1107441
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1118022
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088586
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10885866c4783b8-3150-4f6e-8433-7b08eeb6a08d&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1021769
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1021829
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1047494
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1096588
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1096583
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1021779
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1127270
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1084456
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1079039
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1112898
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999550
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999550
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1037132
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067999
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100006
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100004
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100004
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100004
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100004
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1112906
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1079179
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1091305
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1012553
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019593
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019593
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1039025
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1000026cb04850-cc22-41b8-a93a-0c50599980ec&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1039025e2531adb-7844-46d5-986b-2e5b84d43c24&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100015
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100015
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100014
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100014
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066359
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067166
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1029103
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1012331
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005280
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999549
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2999549
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1084698
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066918
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100016
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100016
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1034728
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019593
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072470
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122213
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005280
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1084456
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080886
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067082
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005464
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005018
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066831
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122213
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1112898
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088525
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067080
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067088
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088198
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005201
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002595
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1079017
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002596
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005360
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1100052
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066825
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088103
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066824
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122214
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1115588
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005461
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066838
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067083
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005009
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005213
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088415
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088149
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005207
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005467
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005460
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005199
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005457
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005458
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003846
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005205
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088052
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066829
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088526
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005020
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088108
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088527
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005268
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1115589
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088102
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066359
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088151
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005465
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003843
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080785
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005361
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100002
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003841
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1034728
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1065913
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088150
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066832
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003477
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005208
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066839
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066823
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234999
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234999
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100014
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100014
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100012
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005459
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066830
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066834
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032025
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088610
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1034048
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088611
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032133
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088606
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032134
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032023
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032026
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088612
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032020
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032024
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1075392
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1031978
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032091
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080784
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1047494
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1010728.1
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1079179
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067166
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1010728
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1004946
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002599
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1034728
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1004947
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005460
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1079017
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1100052
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088198
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122214
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066839
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005199
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080886
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066832
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066838
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005459
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005465
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005009
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005210
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088606
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005457
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005458
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067088
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005360
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032025
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122213
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032091
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066834
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005209
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088611
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005609
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088610
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032026
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002595
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1031978
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032133
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066359
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1032024
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066916
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072752
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072954
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066831
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066914
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1112906
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1107441
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088610
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002599
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005018
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122214
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002596
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019593
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088151
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088198
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005201
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066832
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234888
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1079017
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088526
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005458
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1115588
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088527
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072470
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1071841
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088103
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1115589
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080784
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088103
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088151
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005201
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122213
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1004946
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005199
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088527
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088527
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005210
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088198
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005209
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122214
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088525
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1100052
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005460
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005459
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1115588
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066832
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002599
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066359
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005205
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066825
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003841
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005009
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067088
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1079017
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066834
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088415
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003477
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067080
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080886
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066830
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1065913
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005207
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066823
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088052
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066829
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005464
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067082
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005457
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088150
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1115589
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002596
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088149
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005458
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005018
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067083
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066839
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080786
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005465
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005020
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005213
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080785
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066824
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003843
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005206
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005013
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005609
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088102
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005461
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005360
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005208
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005280
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080784
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066838
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003846
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019593
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1004947
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088105
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1047179
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1011830
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1006821
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002603
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1012398
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1018022
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066831
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1067080b8498b26-7fe3-4f51-bef3-ca11485b0deb&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1015855
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1015845
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1017950
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1034048
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019450
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10340486e62f4f5-3c82-4621-a81d-e26ce29e49a7&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10340486e62f4f5-3c82-4621-a81d-e26ce29e49a7&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1067080b8498b26-7fe3-4f51-bef3-ca11485b0deb&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1091977
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1018087
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1018001
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1005280dd844e00-c188-4ba7-87f5-159a3cdff9c5&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1047180
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019597
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1018022273be098-a055-4a2a-9752-593f99087c72&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10195936223f3bd-81c0-452f-b4de-6bd2b3a0cfe9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1088415acf3d762-567e-45fc-815e-1d99bc5f2ae9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1047179c4431591-2490-4689-bb64-ff3fce97dda7&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1006821f65b8600-dfea-48c5-98aa-771b86143df6&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10180873578facd-bd2f-406b-8960-a57c42784d08&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10668302d7d02ba-7dac-44c8-a236-d9c10645a9f3&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS111558800120e5e-bb54-40c0-a4a2-6361cdaf7b6a&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1019450437d867e-cd6e-40f4-8942-07e5471df31f&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS101584522aad292-5b93-4dcb-bd44-53564cfc30e9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS111558800120e5e-bb54-40c0-a4a2-6361cdaf7b6a&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1029052
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1047179c4431591-2490-4689-bb64-ff3fce97dda7&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1012398bc2fb397-0244-4b60-96bf-05fd05e55a3b&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1047179c4431591-2490-4689-bb64-ff3fce97dda7&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1006821f65b8600-dfea-48c5-98aa-771b86143df6&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1018022273be098-a055-4a2a-9752-593f99087c72&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10118309cdbf00f-09fa-48de-954b-d1aa202cb0b9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1065914
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS101584522aad292-5b93-4dcb-bd44-53564cfc30e9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1012553
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10052138857ce81-a0f7-4251-aaab-90121a79245f&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10668256b5764e0-90ec-4140-96f0-3b28534cb6a6&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1108653
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1034728
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1015844
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10195936223f3bd-81c0-452f-b4de-6bd2b3a0cfe9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1005280dd844e00-c188-4ba7-87f5-159a3cdff9c5&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1005013fee3bbdd-8031-4911-aa4f-9df09936d74f&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1005013fee3bbdd-8031-4911-aa4f-9df09936d74f&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1091746
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1019450437d867e-cd6e-40f4-8942-07e5471df31f&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS109174675175e92-c344-4fb9-b780-5258cb7e4edf&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1005280dd844e00-c188-4ba7-87f5-159a3cdff9c5&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1015844d3603ebb-7969-472d-b156-9792e601842f&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1019450437d867e-cd6e-40f4-8942-07e5471df31f&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1017772
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS100347762b4bc7e-9030-435a-a1a4-ce8558cb9b5e&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1088415acf3d762-567e-45fc-815e-1d99bc5f2ae9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1067080b8498b26-7fe3-4f51-bef3-ca11485b0deb&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1019450437d867e-cd6e-40f4-8942-07e5471df31f&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1047179c4431591-2490-4689-bb64-ff3fce97dda7&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019065
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1062936
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1066834f448458f-8a79-4a79-9436-1da72cd9ba97&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1131104
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1006821f65b8600-dfea-48c5-98aa-771b86143df6&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS109174675175e92-c344-4fb9-b780-5258cb7e4edf&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1065914e54f23ef-d8c4-473a-ae61-e1bc176a3ab7&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS109174675175e92-c344-4fb9-b780-5258cb7e4edf&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1062932
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS108078500b4f424-b91c-4a4f-8822-94aa60921de0&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS108078500b4f424-b91c-4a4f-8822-94aa60921de0&applicationid=BUMAS&jsontype=true
+Failed 2 times.
+-->
+
+2. Waited for 00:00:04.
+on retry [2]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1088525724515a6-dc7b-45b7-8172-fa331a11c9f9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS108078500b4f424-b91c-4a4f-8822-94aa60921de0&applicationid=BUMAS&jsontype=true
+Failed 3 times.
+-->
+
+3. Waited for 00:00:08.
+on retry [3]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1010728
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1106592
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1014521
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1047180f99283bd-600b-442c-9c3d-e5fc654cbf0a&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1017772a3e81385-7ffe-4b8b-a0a0-7c35aaed2f90&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10118309cdbf00f-09fa-48de-954b-d1aa202cb0b9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1047179c4431591-2490-4689-bb64-ff3fce97dda7&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1006821f65b8600-dfea-48c5-98aa-771b86143df6&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088526
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1006969
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1067083d48bb9a3-1daa-4911-befd-00ea14cac499&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10668256b5764e0-90ec-4140-96f0-3b28534cb6a6&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1005609338a42cc-b229-4c4d-b265-9f9b8087a0ac&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1017772a3e81385-7ffe-4b8b-a0a0-7c35aaed2f90&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088108
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1067166
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072088
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=2997952
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1034807
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005361
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1002599ac8ca657-1f63-436f-9eea-36b6713f1d29&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1095169
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1095347
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072752
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080785
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1108653
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088527
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005205
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019594
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005464
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005020
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005213
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1122214
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1012398
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1015844
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1017772
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088149
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1131104
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1018087
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1082858
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1062937
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005013
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1012404
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072470
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1129783
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1106453
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1015844d3603ebb-7969-472d-b156-9792e601842f&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10118309cdbf00f-09fa-48de-954b-d1aa202cb0b9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10885270924ff38-174c-42be-9b03-e435619b77f9&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005210
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10049478bc492de-82f6-43a2-8501-afa38343ca52&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003846
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1015855
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1006821
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019075
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005208
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1033214
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1033212
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1033902
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1033359
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1018001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1072088
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019597
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1019065
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005018
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1100052
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1100052
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1004946
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003843
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005201
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1080786
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100003
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100016
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100016
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005458
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1091746
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS1005280dd844e00-c188-4ba7-87f5-159a3cdff9c5&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066824
+This API will not be retry
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?uuid=BUMAS10790171a56b8ab-a544-4caf-a045-84250336e5a2&applicationid=BUMAS&jsontype=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://ismacapi.misa.vn.local/GetNotification.aspx?notificationid=1993&jsonType=true
+Failed 1 time.
+-->
+
+1. Waited for 00:00:02.
+on retry [1]...
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1081051
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002603
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088105
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1115588
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1100127
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1009653
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005209
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1129645
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005360
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1003477
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088150
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1029109
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005207
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1087648
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1017950
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088525
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005460
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1066831
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002596
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1088526
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1084487
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1062931
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1051249
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1110125
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1065914
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005019
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1005466
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1002595
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=1234899
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
+[Error] GET - http://sumanapi.misa.vn.local/api/subscribers/info?url=bumasapp.misa.vn&taxOrBudgetCode=100001
+This API will not be retry
