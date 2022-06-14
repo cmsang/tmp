@@ -1,0 +1,1064 @@
+ - Start auth - 06/07/2022 17:08:53
+ - OSDescription: Linux 4.15.0-112-generic #113-Ubuntu SMP Thu Jul 9 23:41:39 UTC 2020
+ - Common language runtime: 3.1.21
+ - .NET installation: .NET Core 3.1.21
+ - App Environment: production
+http://lekima-config-svc/shared/ns.json
+http://lekima-config-svc/shared/lekima.json
+http://lekima-config-svc/v2/cdnconfig.json
+http://lekima-config-svc/v2/lekima/sharedconfig.json
+http://lekima-config-svc/v2/lekima/auth/appsettings.json
+ - App Code: LEKI
+ - Mysql Connection Timeout: 999
+ - MySql Ssl Mode: None
+ - MySql Character Set: utf8mb4
+ - Data Protection Application Discriminator: MISA.Lekima.Production.Discriminator
+ - Disabled HttpClient WebProxy - 
+- 2022-06-07T17:10:32.6737303+07:00 GET /api/account/organizations 
+ - Redis Setup: hl-qtc-rd00001a:6379,hl-qtc-rd00001b:6379,pv-qtc-rd00001c:6379,ssl=false - Leki
+- 2022-06-07T17:10:38.0617271+07:00 GET /api/account/organizations 
+- 2022-06-07T17:12:47.6468645+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 80dc5f62-adf7-4208-9ae0-11dcb3b423f9
+- 2022-06-07T17:21:25.9108021+07:00 GET /api/account/organizations 
+- 2022-06-07T17:27:18.7032750+07:00 POST /api/account/switchorganization 1204
+[INF][Fingov] UserId: ee6fd4c6-19e7-482f-8c35-15bb0d71b1c8
+- 2022-06-07T17:32:41.1932923+07:00 GET /api/account/organizations 
+- 2022-06-07T17:37:35.6093549+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: ef867cad-a057-4e7f-8f6b-96eda294a28b
+- 2022-06-08T07:56:33.6813629+07:00 GET /api/account/organizations 
+- 2022-06-08T08:02:47.3962605+07:00 GET /api/account/organizations 
+- 2022-06-08T08:02:54.2726851+07:00 POST /api/servey/updatecancelcount 599
+- 2022-06-08T08:03:29.3333914+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-08T08:03:34.4500828+07:00 GET /api/account/organizations 
+- 2022-06-08T08:03:48.4587659+07:00 POST /api/account/switchorganization 1168
+[INF][Fingov] UserId: e48b4858-7702-4245-9e14-c46e4c923af2
+[INF][Fingov] UserId: 8dbc4615-0508-43ae-bc37-137fe6808a55
+- 2022-06-08T08:17:47.8460236+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 9c0fdec4-1c75-45b8-b657-ac26ce6ee6f4
+[INF][Fingov] UserId: 8bae22b0-acc5-4051-b967-2fd45abf3d50
+- 2022-06-08T08:56:48.6879655+07:00 GET /api/account/organizations 
+- 2022-06-08T08:57:15.5565303+07:00 GET /api/account/organizations 
+- 2022-06-08T08:57:20.4575298+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-08T08:57:22.0769338+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: aae6d41b-5d6f-4bc4-8460-210445b6f2e4
+- 2022-06-08T08:58:31.9676147+07:00 GET /api/account/organizations 
+- 2022-06-08T09:05:20.4923248+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-08T09:05:42.9770566+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 2c6d410d-4a73-42f7-8199-d27135adee0c
+[INF][Fingov] UserId: 3ea29031-4e31-4b42-b458-2ec4b5685505
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+- 2022-06-08T09:17:11.8146990+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 436c2d4f-bc8d-495a-b677-cd2326d8ce77
+- 2022-06-08T09:25:39.3035361+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 7968d6d4-084f-4355-b4be-ae451b4bc6a6
+[INF][Fingov] UserId: 80dc5f62-adf7-4208-9ae0-11dcb3b423f9
+- 2022-06-08T09:35:42.9405984+07:00 GET /api/account/organizations 
+- 2022-06-08T09:35:48.4171187+07:00 GET /api/account/organizations 
+- 2022-06-08T09:36:23.5739657+07:00 POST /api/account/switchorganization 1149
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-08T09:37:04.8562165+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 0d15615c-a34b-4942-8cb4-15024bb8d268
+- 2022-06-08T09:40:37.1457837+07:00 POST /api/account/switchorganization 1228
+- 2022-06-08T09:40:39.8026759+07:00 GET /api/account/organizations 
+- 2022-06-08T09:44:14.7856564+07:00 GET /api/account/organizations 
+- 2022-06-08T09:46:11.4361900+07:00 POST /api/account/switchorganization 1204
+[INF][Fingov] UserId: 62cad64e-237e-43f8-be07-9b64b92a56b5
+- 2022-06-08T09:48:01.5942469+07:00 GET /api/account/organizations 
+- 2022-06-08T09:53:17.0727323+07:00 GET /api/account/organizations 
+- 2022-06-08T09:54:11.7617081+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-08T09:54:14.8836751+07:00 GET /api/account/organizations 
+- 2022-06-08T09:54:18.0762755+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-08T09:54:19.9224854+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-08T09:54:20.2245328+07:00 GET /api/account/organizations 
+- 2022-06-08T09:54:26.8678677+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8cfcc895-7912-4746-ba0f-c84f04943169
+- 2022-06-08T09:57:21.1290269+07:00 GET /api/account/organizations 
+- 2022-06-08T10:00:21.5192824+07:00 POST /api/account/showlicenseagreement 2
+[INF][Fingov] UserId: 4b3597c8-e707-4ae0-a9f7-f7e170ab5874
+- 2022-06-08T10:02:17.5551303+07:00 GET /api/account/organizations 
+- 2022-06-08T10:08:12.3901551+07:00 GET /api/account/organizations 
+- 2022-06-08T10:11:26.0929300+07:00 GET /api/account/organizations 
+- 2022-06-08T10:13:06.4041841+07:00 GET /api/account/organizations 
+- 2022-06-08T10:20:49.0684637+07:00 GET /api/account/organizations 
+- 2022-06-08T10:21:46.9438043+07:00 GET /api/account/organizations 
+- 2022-06-08T10:24:51.7695460+07:00 POST /api/account/switchorganization 1204
+- 2022-06-08T10:25:08.0774185+07:00 GET /api/account/organizations 
+- 2022-06-08T10:25:20.5819211+07:00 GET /api/account/organizations 
+- 2022-06-08T10:27:29.0214166+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 3ea29031-4e31-4b42-b458-2ec4b5685505
+- 2022-06-08T10:29:52.1205904+07:00 GET /api/account/organizations 
+- 2022-06-08T10:31:05.7473206+07:00 GET /api/account/organizations 
+- 2022-06-08T10:31:35.6441546+07:00 GET /api/account/organizations 
+- 2022-06-08T10:38:17.2182180+07:00 GET /api/account/organizations 
+- 2022-06-08T10:42:33.8677280+07:00 GET /api/account/organizations 
+- 2022-06-08T10:42:37.7287762+07:00 GET /api/account/organizations 
+- 2022-06-08T10:48:34.9183284+07:00 GET /api/account/organizations 
+- 2022-06-08T10:48:50.3601296+07:00 GET /api/account/organizations 
+- 2022-06-08T10:49:58.7704197+07:00 GET /api/account/organizations 
+- 2022-06-08T10:50:34.5439672+07:00 GET /api/account/organizations 
+- 2022-06-08T10:56:04.8868891+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 34ae13a6-514f-47a6-9b7f-94e366fd44fd
+- 2022-06-08T11:01:06.0298060+07:00 GET /api/account/organizations 
+- 2022-06-08T11:01:16.7982839+07:00 POST /api/servey/updatecancelcount 595
+- 2022-06-08T11:16:37.7859343+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: f935b41f-11d5-453e-abf7-41a08b4df048
+[INF][Fingov] UserId: 1f3f5b51-fd21-4417-bcdb-12c8740e768a
+- 2022-06-08T11:39:50.7566692+07:00 GET /api/account/organizations 
+- 2022-06-08T11:39:57.2838767+07:00 POST /api/servey/updatecancelcount 622
+- 2022-06-08T11:39:58.0950498+07:00 GET /api/account/organizations 
+- 2022-06-08T11:45:22.7606425+07:00 GET /api/account/organizations 
+- 2022-06-08T11:45:35.9345945+07:00 POST /api/servey/updatecancelcount 616
+- 2022-06-08T11:45:36.5769170+07:00 GET /api/account/organizations 
+- 2022-06-08T11:47:59.8205450+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8cfcc895-7912-4746-ba0f-c84f04943169
+- 2022-06-08T12:02:29.5422991+07:00 GET /api/account/organizations 
+- 2022-06-08T12:02:45.2006824+07:00 GET /api/account/organizations 
+- 2022-06-08T12:02:46.3673107+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-08T13:31:00.9489556+07:00 GET /api/account/organizations 
+- 2022-06-08T13:39:02.7248223+07:00 GET /api/account/organizations 
+- 2022-06-08T13:49:37.0072352+07:00 GET /api/account/organizations 
+- 2022-06-08T13:54:27.1691401+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8cfcc895-7912-4746-ba0f-c84f04943169
+- 2022-06-08T13:54:32.8348908+07:00 GET /api/account/organizations 
+- 2022-06-08T13:55:05.7011114+07:00 GET /api/account/organizations 
+- 2022-06-08T13:55:06.5574197+07:00 POST /api/account/showlicenseagreement 2
+[INF][Fingov] UserId: 577552b0-1378-4799-a4c1-6e26678668ca
+- 2022-06-08T13:57:16.7016449+07:00 GET /api/account/organizations 
+- 2022-06-08T13:57:23.2379241+07:00 GET /api/account/organizations 
+- 2022-06-08T13:57:26.9074392+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: b9993cb8-e952-4387-b0d8-1ee562404be2
+- 2022-06-08T14:00:06.1977044+07:00 GET /api/account/organizations 
+- 2022-06-08T14:00:30.7938006+07:00 GET /api/account/organizations 
+- 2022-06-08T14:01:04.0004302+07:00 GET /api/account/organizations 
+- 2022-06-08T14:01:09.6933783+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-08T14:01:31.3664696+07:00 GET /api/account/misaidaction 
+- 2022-06-08T14:02:10.0543265+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: b9993cb8-e952-4387-b0d8-1ee562404be2
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-08T14:08:08.4187297+07:00 GET /api/account/organizations 
+- 2022-06-08T14:10:40.6079515+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8cfcc895-7912-4746-ba0f-c84f04943169
+- 2022-06-08T14:11:34.3148041+07:00 GET /api/account/organizations 
+- 2022-06-08T14:12:00.6918170+07:00 GET /api/account/organizations 
+- 2022-06-08T14:22:22.1270440+07:00 POST /api/account/switchorganization 1179
+- 2022-06-08T14:22:25.4074849+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 436c2d4f-bc8d-495a-b677-cd2326d8ce77
+- 2022-06-08T14:56:33.0872654+07:00 GET /api/account/organizations 
+- 2022-06-08T14:57:21.1800726+07:00 GET /api/account/organizations 
+- 2022-06-08T14:57:39.7631038+07:00 GET /api/account/organizations 
+- 2022-06-08T14:58:29.3051878+07:00 GET /api/account/organizations 
+- 2022-06-08T15:03:47.4820170+07:00 GET /api/account/organizations 
+- 2022-06-08T15:04:58.2795507+07:00 GET /api/account/organizations 
+- 2022-06-08T15:17:31.9265729+07:00 GET /api/account/organizations 
+- 2022-06-08T15:18:43.2464996+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-08T15:19:02.1627058+07:00 GET /api/account/organizations 
+- 2022-06-08T15:21:46.8827261+07:00 POST /api/account/switchorganization 1179
+- 2022-06-08T15:21:49.5186157+07:00 GET /api/account/organizations 
+- 2022-06-08T15:27:29.1931395+07:00 GET /api/account/organizations 
+- 2022-06-08T15:27:31.1114190+07:00 POST /api/servey/updatecancelcount 591
+- 2022-06-08T15:36:39.3802770+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 1f3f5b51-fd21-4417-bcdb-12c8740e768a
+- 2022-06-08T15:37:23.0807276+07:00 GET /api/account/organizations 
+- 2022-06-08T15:37:31.9797187+07:00 POST /api/servey/updatecancelcount 622
+- 2022-06-08T15:37:33.9172775+07:00 GET /api/account/organizations 
+- 2022-06-08T15:48:45.3318963+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-08T15:53:47.9096054+07:00 POST /api/account/switchorganization 1160
+- 2022-06-08T15:57:01.5345092+07:00 GET /api/account/organizations 
+- 2022-06-08T15:57:48.3559856+07:00 POST /api/account/switchorganization 1179
+- 2022-06-08T15:57:50.6330531+07:00 GET /api/account/organizations 
+- 2022-06-08T15:59:43.4242403+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: f7fe7b59-5b98-47d2-8185-c6e7c148eeaa
+- 2022-06-08T16:07:00.7565506+07:00 GET /api/account/organizations 
+- 2022-06-08T16:18:26.7164385+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: ea4fbb00-5a30-4a0f-9377-2daac2d17fdd
+- 2022-06-08T16:50:48.2193495+07:00 GET /api/account/organizations 
+- 2022-06-08T17:22:15.1140158+07:00 GET /api/account/organizations 
+- 2022-06-08T17:43:39.8070236+07:00 GET /api/account/organizations 
+- 2022-06-08T17:44:06.0234913+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+- 2022-06-08T17:45:04.3423867+07:00 GET /api/account/organizations 
+- 2022-06-08T17:45:15.5193163+07:00 GET /api/account/organizations 
+- 2022-06-08T17:54:12.0749733+07:00 GET /api/account/organizations 
+- 2022-06-08T17:59:42.7935304+07:00 GET /api/account/organizations 
+- 2022-06-08T18:01:00.6278347+07:00 GET /api/account/organizations 
+- 2022-06-08T18:37:01.8827180+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8c5dfdc4-1c98-4c4f-bcf8-da622ada8a79
+- 2022-06-08T21:36:13.3217715+07:00 GET /api/account/organizations 
+- 2022-06-08T21:36:22.8812052+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 3f297b6e-3b25-4064-bb5e-75dc04b933c6
+- 2022-06-08T23:30:52.7999422+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-09T06:17:34.7953068+07:00 POST /api/account/switchorganization 1187
+- 2022-06-09T06:33:45.6820383+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 3e491cc7-daee-4548-9052-a709d015ca06
+- 2022-06-09T07:46:30.9521804+07:00 GET /api/account/organizations 
+- 2022-06-09T07:52:56.7388368+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 824344d9-e296-4f48-b4d3-75db5286d3fc
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+- 2022-06-09T08:01:54.1016064+07:00 GET /api/account/organizations 
+- 2022-06-09T08:01:59.5502309+07:00 POST /api/account/switchorganization 1134
+- 2022-06-09T08:02:00.9529096+07:00 GET /api/account/organizations 
+- 2022-06-09T08:10:38.4519008+07:00 GET /api/account/organizations 
+- 2022-06-09T08:11:52.5195144+07:00 GET /api/account/organizations 
+- 2022-06-09T08:12:08.0063678+07:00 POST /api/account/switchorganization 1180
+- 2022-06-09T08:12:10.0961859+07:00 GET /api/account/organizations 
+- 2022-06-09T08:21:42.6174136+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-09T08:22:01.5238217+07:00 GET /api/account/organizations 
+- 2022-06-09T08:22:06.1478691+07:00 POST /api/servey/updatecancelcount 623
+- 2022-06-09T08:22:06.6826401+07:00 GET /api/account/organizations 
+- 2022-06-09T08:29:36.5731016+07:00 GET /api/account/organizations 
+- 2022-06-09T08:39:19.2916017+07:00 GET /api/account/organizations 
+- 2022-06-09T08:39:20.7135931+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-09T08:39:27.9616930+07:00 GET /api/account/organizations 
+- 2022-06-09T08:39:53.5691414+07:00 GET /api/account/organizations 
+- 2022-06-09T08:46:08.9595016+07:00 POST /api/account/switchorganization 1198
+- 2022-06-09T08:46:54.6686116+07:00 GET /api/account/organizations 
+- 2022-06-09T08:49:20.4631400+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-09T08:49:23.1701923+07:00 GET /api/account/organizations 
+- 2022-06-09T08:50:56.4037894+07:00 GET /api/account/organizations 
+- 2022-06-09T08:53:01.9497179+07:00 GET /api/account/organizations 
+- 2022-06-09T09:00:49.1124609+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: d4808dc1-b01f-4ae2-86c9-ecafc0480b45
+- 2022-06-09T09:03:22.5676631+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: d4808dc1-b01f-4ae2-86c9-ecafc0480b45
+[INF][Fingov] UserId: d9d54739-2611-4b4c-b408-3ab7435c6042
+- 2022-06-09T09:14:47.6278199+07:00 POST /api/servey/updatecancelcount 599
+[INF][Fingov] UserId: 1fbe4f0e-5cc7-4fb2-840a-d27d8ecc5458
+- 2022-06-09T09:17:17.7867244+07:00 GET /api/account/organizations 
+- 2022-06-09T09:22:58.7874980+07:00 GET /api/account/organizations 
+- 2022-06-09T09:23:03.4582341+07:00 GET /api/account/organizations 
+- 2022-06-09T09:26:19.5279193+07:00 GET /api/account/organizations 
+- 2022-06-09T09:26:54.2437306+07:00 POST /api/account/switchorganization 1161
+- 2022-06-09T09:26:55.8986055+07:00 GET /api/account/organizations 
+- 2022-06-09T09:27:14.8261663+07:00 POST /api/account/switchorganization 1210
+- 2022-06-09T09:27:40.7130495+07:00 POST /api/account/switchorganization 1149
+- 2022-06-09T09:32:08.4359962+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 9c0fdec4-1c75-45b8-b657-ac26ce6ee6f4
+- 2022-06-09T09:45:57.6877269+07:00 GET /api/account/organizations 
+- 2022-06-09T09:51:26.0937106+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 4b3597c8-e707-4ae0-a9f7-f7e170ab5874
+- 2022-06-09T09:53:22.7679564+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-09T09:56:26.1651923+07:00 GET /api/account/organizations 
+- 2022-06-09T09:57:29.4699525+07:00 GET /api/account/organizations 
+- 2022-06-09T10:00:25.0490427+07:00 POST /api/account/switchorganization 1173
+- 2022-06-09T10:01:37.6908225+07:00 GET /api/account/organizations 
+- 2022-06-09T10:02:22.6651111+07:00 GET /api/account/organizations 
+- 2022-06-09T10:03:46.6641158+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 64ac70ab-d36c-4dde-adef-cc2599ca331d
+- 2022-06-09T10:05:26.5647463+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 62b27ca1-a764-4320-9940-26026f4506af
+- 2022-06-09T10:09:56.1457192+07:00 GET /api/account/organizations 
+- 2022-06-09T10:11:03.7464545+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 91472d3a-bd93-49ef-8fa8-7f815b7290e9
+- 2022-06-09T10:11:29.1698166+07:00 GET /api/account/organizations 
+- 2022-06-09T10:11:33.4366037+07:00 POST /api/servey/updatecancelcount 623
+[INF][Fingov] UserId: ee6fd4c6-19e7-482f-8c35-15bb0d71b1c8
+- 2022-06-09T10:13:12.6107216+07:00 GET /api/account/organizations 
+- 2022-06-09T10:13:45.1282786+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8b476e6a-c79a-4fe4-83c8-318db773a923
+- 2022-06-09T10:14:48.7147158+07:00 GET /api/account/organizations 
+- 2022-06-09T10:14:50.3186031+07:00 POST /api/account/switchorganization 1056
+- 2022-06-09T10:14:52.2448142+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-09T10:14:54.8498657+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 91472d3a-bd93-49ef-8fa8-7f815b7290e9
+- 2022-06-09T10:15:03.0335403+07:00 GET /api/account/organizations 
+- 2022-06-09T10:18:23.5387791+07:00 GET /api/account/organizations 
+- 2022-06-09T10:21:32.5112163+07:00 GET /api/account/organizations 
+- 2022-06-09T10:21:58.5755366+07:00 GET /api/account/organizations 
+- 2022-06-09T10:26:21.0832724+07:00 GET /api/account/organizations 
+- 2022-06-09T10:27:21.6467495+07:00 GET /api/account/organizations 
+- 2022-06-09T10:27:45.0879392+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 76e65afe-274c-447b-bce6-c1e7352b59e8
+[INF][Fingov] UserId: 76e65afe-274c-447b-bce6-c1e7352b59e8
+[INF][Fingov] UserId: 91472d3a-bd93-49ef-8fa8-7f815b7290e9
+- 2022-06-09T10:37:38.6960918+07:00 GET /api/account/organizations 
+- 2022-06-09T10:38:56.4448088+07:00 POST /api/servey/updatecancelcount 623
+- 2022-06-09T10:38:58.0780074+07:00 GET /api/account/organizations 
+- 2022-06-09T10:39:23.0517430+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 91472d3a-bd93-49ef-8fa8-7f815b7290e9
+- 2022-06-09T10:42:31.3590669+07:00 GET /api/account/organizations 
+- 2022-06-09T10:42:34.0965073+07:00 GET /api/account/organizations 
+- 2022-06-09T10:42:37.7287782+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 3f297b6e-3b25-4064-bb5e-75dc04b933c6
+- 2022-06-09T10:43:36.5012669+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: afcc0673-b31f-4882-8e19-2ded372a376b
+- 2022-06-09T10:45:49.8075357+07:00 GET /api/account/organizations 
+- 2022-06-09T10:45:50.9495283+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-09T10:45:54.6013004+07:00 GET /api/account/organizations 
+- 2022-06-09T10:47:32.8694256+07:00 GET /api/account/organizations 
+- 2022-06-09T10:53:56.1897387+07:00 GET /api/account/organizations 
+- 2022-06-09T11:04:18.2556793+07:00 GET /api/account/organizations 
+- 2022-06-09T11:06:08.9267940+07:00 GET /api/account/organizations 
+- 2022-06-09T11:07:22.4531383+07:00 GET /api/account/organizations 
+- 2022-06-09T11:07:23.0703924+07:00 GET /api/account/organizations 
+- 2022-06-09T11:24:32.5073442+07:00 GET /api/account/organizations 
+- 2022-06-09T13:35:45.1535315+07:00 GET /api/account/organizations 
+- 2022-06-09T13:45:57.9261669+07:00 GET /api/account/organizations 
+- 2022-06-09T13:56:04.1598016+07:00 GET /api/account/organizations 
+- 2022-06-09T13:58:41.7613681+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 91472d3a-bd93-49ef-8fa8-7f815b7290e9
+- 2022-06-09T14:01:20.5682247+07:00 POST /api/servey/saveserveyresult 922
+[INF][Fingov] UserId: 731651c8-2214-420c-99f8-219558da81fd
+[INF][Fingov] UserId: 731651c8-2214-420c-99f8-219558da81fd
+- 2022-06-09T14:20:49.4402866+07:00 GET /api/account/organizations 
+- 2022-06-09T14:20:57.1627334+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: dc7ffe09-eef3-4ecc-8267-8eadc879c2e7
+- 2022-06-09T14:29:01.9264469+07:00 GET /api/account/organizations 
+- 2022-06-09T14:30:19.5641160+07:00 GET /api/account/organizations 
+- 2022-06-09T14:43:07.9586708+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8c5dfdc4-1c98-4c4f-bcf8-da622ada8a79
+- 2022-06-09T14:56:29.3253205+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: e2526ccc-ad42-4d02-9be5-601f126f7528
+- 2022-06-09T15:06:18.1771359+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 91472d3a-bd93-49ef-8fa8-7f815b7290e9
+- 2022-06-09T15:07:14.8821818+07:00 GET /api/account/organizations 
+- 2022-06-09T15:10:20.1497386+07:00 GET /api/account/organizations 
+- 2022-06-09T15:23:39.0185348+07:00 POST /api/account/switchorganization 1204
+- 2022-06-09T15:48:44.8163451+07:00 GET /api/account/organizations 
+- 2022-06-09T15:52:09.2319046+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 9bf8c892-fb23-4530-af48-be842aadc3bd
+- 2022-06-09T15:55:48.3703759+07:00 GET /api/account/organizations 
+- 2022-06-09T15:55:50.3251352+07:00 POST /api/servey/updatecancelcount 584
+- 2022-06-09T15:55:51.0167992+07:00 GET /api/account/organizations 
+- 2022-06-09T16:16:28.9414736+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-09T16:16:30.5413175+07:00 GET /api/account/organizations 
+- 2022-06-09T16:22:13.0560835+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8cfcc895-7912-4746-ba0f-c84f04943169
+- 2022-06-09T16:41:08.1467822+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-09T16:41:09.1653771+07:00 GET /api/account/organizations 
+- 2022-06-09T16:43:10.3856909+07:00 POST /api/account/switchorganization 1198
+- 2022-06-09T16:48:37.8309878+07:00 GET /api/account/organizations 
+- 2022-06-09T17:12:55.1991436+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 2c3cd500-e585-49a0-a8a9-4ffdc8ed5fb1
+- 2022-06-09T21:07:51.4409683+07:00 GET /api/account/organizations 
+- 2022-06-09T22:43:40.8879192+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-09T23:02:39.0729550+07:00 GET /api/account/organizations 
+- 2022-06-09T23:07:30.7778285+07:00 GET /api/account/organizations 
+- 2022-06-09T23:07:39.9488905+07:00 GET /api/account/organizations 
+- 2022-06-09T23:13:22.3155769+07:00 GET /api/account/organizations 
+- 2022-06-10T07:34:05.7009926+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 9bf8c892-fb23-4530-af48-be842aadc3bd
+- 2022-06-10T07:36:46.0642002+07:00 GET /api/account/organizations 
+- 2022-06-10T07:57:11.9526371+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8f602a9a-5c0a-48dc-9d2b-56f3097bed7a
+- 2022-06-10T07:57:59.9190000+07:00 GET /api/account/organizations 
+- 2022-06-10T08:10:13.4582212+07:00 GET /api/account/organizations 
+- 2022-06-10T08:18:20.8632677+07:00 GET /api/account/organizations 
+- 2022-06-10T08:18:39.1314975+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: e2526ccc-ad42-4d02-9be5-601f126f7528
+- 2022-06-10T08:23:01.7554365+07:00 GET /api/account/organizations 
+- 2022-06-10T08:24:34.3291220+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: e48b4858-7702-4245-9e14-c46e4c923af2
+- 2022-06-10T08:28:15.4994199+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 24333e6e-d8b1-4fab-bd78-c5cfd604e17f
+- 2022-06-10T08:29:31.8410392+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 24333e6e-d8b1-4fab-bd78-c5cfd604e17f
+2022-06-10 08:34:16.2160|0|ERROR|MISA.X1.Library.Services.LogService| StackExchange.Redis.RedisTimeoutException: Timeout performing HMGET (5000ms), next: INFO, inst: 0, qu: 0, qs: 3, aw: False, bw: Inactive, rs: ReadAsync, ws: Idle, in: 0, in-pipe: 0, out-pipe: 0, serverEndpoint: hl-qtc-rd00001a:6379, mc: 1/1/0, mgr: 10 of 10 available, clientName: lekima-auth-v2-78fff66f99-rckl6(SE.Redis-v2.5.61.22961), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=1,Max=32767), POOL: (Threads=2,QueuedItems=0,CompletedItems=1410299), v: 2.5.61.22961 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+   at StackExchange.Redis.ConnectionMultiplexer.ExecuteSyncImpl[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 1865
+   at StackExchange.Redis.RedisBase.ExecuteSync[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/RedisBase.cs:line 53
+   at StackExchange.Redis.RedisDatabase.HashGet(RedisKey key, RedisValue[] hashFields, CommandFlags flags) in /_/src/StackExchange.Redis/RedisDatabase.cs:line 321
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisExtensions.HashMemberGet(IDatabase cache, String key, String[] members)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefresh(String key, Boolean getData)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetString(IDistributedCache cache, String key)
+   at MISA.X1.Library.Services.DistributedCacheService.Get[T](String key)
+   at MISA.X1.Library.Services.AuthService.GetTenantID()
+   at MISA.X1.Library.Services.DataService.get_TenantID()
+   at MISA.X1.Library.Services.DataService.GetDefaultConnectionString()
+   at MISA.X1.Library.Services.DataService.get_ConnectionString()
+   at MISA.X1.Library.Services.DataService.get_DataAccess()
+   at MISA.X1.Library.Services.DataService.GetDataAsync[T](String procedureName, Object[] parameters)
+   at MISA.X1.Auth.API.Controllers.AccountController.GetUser(MISAIDUser misaUser)|MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: 8a78bf6f-124c-4e40-b900-961324337e0c
+2022-06-10 08:39:05.7835|0|ERROR|MISA.X1.Library.Services.LogService| StackExchange.Redis.RedisTimeoutException: Timeout performing HMGET (5000ms), next: INFO, inst: 0, qu: 0, qs: 9, aw: False, bw: Inactive, rs: ReadAsync, ws: Idle, in: 0, in-pipe: 0, out-pipe: 0, serverEndpoint: hl-qtc-rd00001a:6379, mc: 1/1/0, mgr: 10 of 10 available, clientName: lekima-auth-v2-78fff66f99-rckl6(SE.Redis-v2.5.61.22961), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=1,Max=32767), POOL: (Threads=3,QueuedItems=0,CompletedItems=1412036), v: 2.5.61.22961 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+   at StackExchange.Redis.ConnectionMultiplexer.ExecuteSyncImpl[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 1865
+   at StackExchange.Redis.RedisBase.ExecuteSync[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/RedisBase.cs:line 53
+   at StackExchange.Redis.RedisDatabase.HashGet(RedisKey key, RedisValue[] hashFields, CommandFlags flags) in /_/src/StackExchange.Redis/RedisDatabase.cs:line 321
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisExtensions.HashMemberGet(IDatabase cache, String key, String[] members)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefresh(String key, Boolean getData)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetString(IDistributedCache cache, String key)
+   at MISA.X1.Library.Services.DistributedCacheService.Get[T](String key)
+   at MISA.X1.Library.Services.AuthService.GetTenantID()
+   at MISA.X1.Library.Services.DataService.get_TenantID()
+   at MISA.X1.Library.Services.DataService.GetDefaultConnectionString()
+   at MISA.X1.Library.Services.DataService.get_ConnectionString()
+   at MISA.X1.Library.Services.DataService.get_DataAccess()
+   at MISA.X1.Library.Services.DataService.GetDataAsync[T](String procedureName, Object[] parameters)
+   at MISA.X1.Auth.API.Controllers.AccountController.GetUser(MISAIDUser misaUser)|MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: 80dc5f62-adf7-4208-9ae0-11dcb3b423f9
+2022-06-10 08:45:07.1699|0|ERROR|MISA.X1.Library.Services.LogService| StackExchange.Redis.RedisTimeoutException: Timeout performing HMGET (5000ms), next: INFO, inst: 0, qu: 0, qs: 16, aw: False, bw: Inactive, rs: ReadAsync, ws: Idle, in: 0, in-pipe: 0, out-pipe: 0, serverEndpoint: hl-qtc-rd00001a:6379, mc: 1/1/0, mgr: 10 of 10 available, clientName: lekima-auth-v2-78fff66f99-rckl6(SE.Redis-v2.5.61.22961), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=1,Max=32767), POOL: (Threads=3,QueuedItems=0,CompletedItems=1414224), v: 2.5.61.22961 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+   at StackExchange.Redis.ConnectionMultiplexer.ExecuteSyncImpl[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 1865
+   at StackExchange.Redis.RedisBase.ExecuteSync[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/RedisBase.cs:line 53
+   at StackExchange.Redis.RedisDatabase.HashGet(RedisKey key, RedisValue[] hashFields, CommandFlags flags) in /_/src/StackExchange.Redis/RedisDatabase.cs:line 321
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisExtensions.HashMemberGet(IDatabase cache, String key, String[] members)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefresh(String key, Boolean getData)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetString(IDistributedCache cache, String key)
+   at MISA.X1.Library.Services.DistributedCacheService.Get[T](String key)
+   at MISA.X1.Library.Services.AuthService.GetTenantID()
+   at MISA.X1.Library.Services.DataService.get_TenantID()
+   at MISA.X1.Library.Services.DataService.GetDefaultConnectionString()
+   at MISA.X1.Library.Services.DataService.get_ConnectionString()
+   at MISA.X1.Library.Services.DataService.get_DataAccess()
+   at MISA.X1.Library.Services.DataService.GetDataAsync[T](String procedureName, Object[] parameters)
+   at MISA.X1.Auth.API.Controllers.AccountController.GetUser(MISAIDUser misaUser)|MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: 80dc5f62-adf7-4208-9ae0-11dcb3b423f9
+2022-06-10 08:45:28.3586|0|ERROR|MISA.X1.Library.Services.LogService| StackExchange.Redis.RedisTimeoutException: Timeout performing HMGET (5000ms), next: INFO, inst: 0, qu: 0, qs: 17, aw: False, bw: Inactive, rs: ReadAsync, ws: Idle, in: 0, in-pipe: 0, out-pipe: 0, serverEndpoint: hl-qtc-rd00001a:6379, mc: 1/1/0, mgr: 10 of 10 available, clientName: lekima-auth-v2-78fff66f99-rckl6(SE.Redis-v2.5.61.22961), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=1,Max=32767), POOL: (Threads=3,QueuedItems=0,CompletedItems=1414361), v: 2.5.61.22961 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+   at StackExchange.Redis.ConnectionMultiplexer.ExecuteSyncImpl[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 1865
+   at StackExchange.Redis.RedisBase.ExecuteSync[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/RedisBase.cs:line 53
+   at StackExchange.Redis.RedisDatabase.HashGet(RedisKey key, RedisValue[] hashFields, CommandFlags flags) in /_/src/StackExchange.Redis/RedisDatabase.cs:line 321
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisExtensions.HashMemberGet(IDatabase cache, String key, String[] members)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefresh(String key, Boolean getData)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetString(IDistributedCache cache, String key)
+   at MISA.X1.Library.Services.DistributedCacheService.Get[T](String key)
+   at MISA.X1.Library.Services.AuthService.GetTenantID()
+   at MISA.X1.Library.Services.DataService.get_TenantID()
+   at MISA.X1.Library.Services.DataService.GetDefaultConnectionString()
+   at MISA.X1.Library.Services.DataService.get_ConnectionString()
+   at MISA.X1.Library.Services.DataService.get_DataAccess()
+   at MISA.X1.Library.Services.DataService.GetDataAsync[T](String procedureName, Object[] parameters)
+   at MISA.X1.Auth.API.Controllers.AccountController.GetUser(MISAIDUser misaUser)|MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: f7fe7b59-5b98-47d2-8185-c6e7c148eeaa
+[INF][Fingov] UserId: 91472d3a-bd93-49ef-8fa8-7f815b7290e9
+2022-06-10 08:47:29.1308|0|ERROR|MISA.X1.Library.Services.LogService| StackExchange.Redis.RedisTimeoutException: Timeout performing HMGET (5000ms), next: INFO, inst: 0, qu: 0, qs: 21, aw: False, bw: Inactive, rs: ReadAsync, ws: Idle, in: 0, in-pipe: 0, out-pipe: 0, serverEndpoint: hl-qtc-rd00001a:6379, mc: 1/1/0, mgr: 10 of 10 available, clientName: lekima-auth-v2-78fff66f99-rckl6(SE.Redis-v2.5.61.22961), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=1,Max=32767), POOL: (Threads=2,QueuedItems=1,CompletedItems=1415105), v: 2.5.61.22961 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+   at StackExchange.Redis.ConnectionMultiplexer.ExecuteSyncImpl[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 1865
+   at StackExchange.Redis.RedisBase.ExecuteSync[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/RedisBase.cs:line 53
+   at StackExchange.Redis.RedisDatabase.HashGet(RedisKey key, RedisValue[] hashFields, CommandFlags flags) in /_/src/StackExchange.Redis/RedisDatabase.cs:line 321
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisExtensions.HashMemberGet(IDatabase cache, String key, String[] members)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefresh(String key, Boolean getData)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetString(IDistributedCache cache, String key)
+   at MISA.X1.Library.Services.DistributedCacheService.Get[T](String key)
+   at MISA.X1.Library.Services.AuthService.GetTenantID()
+   at MISA.X1.Library.Services.DataService.get_TenantID()
+   at MISA.X1.Library.Services.DataService.GetDefaultConnectionString()
+   at MISA.X1.Library.Services.DataService.get_ConnectionString()
+   at MISA.X1.Library.Services.DataService.get_DataAccess()
+   at MISA.X1.Library.Services.DataService.GetDataAsync[T](String procedureName, Object[] parameters)
+   at MISA.X1.Auth.API.Controllers.AccountController.GetUser(MISAIDUser misaUser)|MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: 80dc5f62-adf7-4208-9ae0-11dcb3b423f9
+2022-06-10 08:47:57.4896|0|ERROR|MISA.X1.Library.Services.LogService| StackExchange.Redis.RedisTimeoutException: Timeout performing HMGET (5000ms), next: INFO, inst: 0, qu: 0, qs: 23, aw: False, bw: Inactive, rs: ReadAsync, ws: Idle, in: 0, in-pipe: 0, out-pipe: 0, serverEndpoint: hl-qtc-rd00001a:6379, mc: 1/1/0, mgr: 10 of 10 available, clientName: lekima-auth-v2-78fff66f99-rckl6(SE.Redis-v2.5.61.22961), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=1,Max=32767), POOL: (Threads=2,QueuedItems=0,CompletedItems=1415281), v: 2.5.61.22961 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+   at StackExchange.Redis.ConnectionMultiplexer.ExecuteSyncImpl[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 1865
+   at StackExchange.Redis.RedisBase.ExecuteSync[T](Message message, ResultProcessor`1 processor, ServerEndPoint server) in /_/src/StackExchange.Redis/RedisBase.cs:line 53
+   at StackExchange.Redis.RedisDatabase.HashGet(RedisKey key, RedisValue[] hashFields, CommandFlags flags) in /_/src/StackExchange.Redis/RedisDatabase.cs:line 321
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisExtensions.HashMemberGet(IDatabase cache, String key, String[] members)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefresh(String key, Boolean getData)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetString(IDistributedCache cache, String key)
+   at MISA.X1.Library.Services.DistributedCacheService.Get[T](String key)
+   at MISA.X1.Library.Services.AuthService.GetTenantID()
+   at MISA.X1.Library.Services.DataService.get_TenantID()
+   at MISA.X1.Library.Services.DataService.GetDefaultConnectionString()
+   at MISA.X1.Library.Services.DataService.get_ConnectionString()
+   at MISA.X1.Library.Services.DataService.get_DataAccess()
+   at MISA.X1.Library.Services.DataService.GetDataAsync[T](String procedureName, Object[] parameters)
+   at MISA.X1.Auth.API.Controllers.AccountController.GetUser(MISAIDUser misaUser)|MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: b804ec59-750b-4088-97a6-6498ca76de23
+[INF][Fingov] UserId: 40287983-c1ee-47d1-8954-48017add5492
+- 2022-06-10T08:55:28.6449077+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 68849496-af6c-4a09-903a-c93a5619beb2
+[INF][Fingov] UserId: 7968d6d4-084f-4355-b4be-ae451b4bc6a6
+[INF][Fingov] UserId: 1fbe4f0e-5cc7-4fb2-840a-d27d8ecc5458
+- 2022-06-10T08:56:15.8849188+07:00 GET /api/account/organizations 
+- 2022-06-10T08:56:17.7279485+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 1fbe4f0e-5cc7-4fb2-840a-d27d8ecc5458
+[INF][Fingov] UserId: f7fe7b59-5b98-47d2-8185-c6e7c148eeaa
+- 2022-06-10T08:56:49.1034092+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 80dc5f62-adf7-4208-9ae0-11dcb3b423f9
+[INF][Fingov] UserId: 80dc5f62-adf7-4208-9ae0-11dcb3b423f9
+- 2022-06-10T08:57:15.3063720+07:00 GET /api/account/organizations 
+- 2022-06-10T08:57:20.4655104+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8a78bf6f-124c-4e40-b900-961324337e0c
+- 2022-06-10T09:03:51.5881245+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-10T09:05:32.9595271+07:00 GET /api/account/organizations 
+- 2022-06-10T09:06:42.7796911+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 91472d3a-bd93-49ef-8fa8-7f815b7290e9
+- 2022-06-10T09:06:49.8198230+07:00 GET /api/account/organizations 
+- 2022-06-10T09:25:21.4898353+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+[INF][Fingov] UserId: f7fe7b59-5b98-47d2-8185-c6e7c148eeaa
+- 2022-06-10T09:34:24.7391530+07:00 GET /api/account/organizations 
+- 2022-06-10T09:43:42.9830576+07:00 GET /api/account/organizations 
+- 2022-06-10T10:06:20.0791094+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 2c6d410d-4a73-42f7-8199-d27135adee0c
+- 2022-06-10T10:09:00.7900484+07:00 GET /api/account/organizations 
+- 2022-06-10T10:28:14.5537080+07:00 GET /api/account/organizations 
+- 2022-06-10T10:29:31.7413853+07:00 GET /api/account/organizations 
+- 2022-06-10T10:43:51.2147050+07:00 GET /api/account/organizations 
+- 2022-06-10T10:43:52.5152890+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-10T10:55:59.1490454+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-10T11:17:23.1089448+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 91472d3a-bd93-49ef-8fa8-7f815b7290e9
+- 2022-06-10T11:26:37.6442631+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+- 2022-06-10T13:49:04.4362224+07:00 GET /api/account/organizations 
+- 2022-06-10T13:49:50.0285229+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 9c0fdec4-1c75-45b8-b657-ac26ce6ee6f4
+[INF][Fingov] UserId: 91472d3a-bd93-49ef-8fa8-7f815b7290e9
+- 2022-06-10T14:02:00.2564283+07:00 GET /api/account/organizations 
+- 2022-06-10T14:20:18.9439662+07:00 POST /api/account/switchorganization 1134
+[INF][Fingov] UserId: 1fbe4f0e-5cc7-4fb2-840a-d27d8ecc5458
+- 2022-06-10T14:41:20.4266265+07:00 GET /api/account/organizations 
+- 2022-06-10T14:47:59.7598709+07:00 GET /api/account/organizations 
+- 2022-06-10T14:56:36.8167201+07:00 GET /api/account/organizations 
+- 2022-06-10T15:06:02.5793978+07:00 GET /api/account/organizations 
+- 2022-06-10T15:33:00.5219771+07:00 GET /api/account/organizations 
+- 2022-06-10T15:39:47.1915421+07:00 GET /api/account/organizations 
+- 2022-06-10T15:44:11.9940760+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8cfcc895-7912-4746-ba0f-c84f04943169
+- 2022-06-10T15:49:18.5136690+07:00 GET /api/account/organizations 
+- 2022-06-10T15:49:19.4726941+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-10T15:53:00.5666346+07:00 POST /api/account/switchorganization 1099
+- 2022-06-10T15:53:03.3796528+07:00 GET /api/account/organizations 
+- 2022-06-10T16:07:05.3318220+07:00 POST /api/account/switchorganization 1181
+- 2022-06-10T16:07:16.8569097+07:00 POST /api/account/switchorganization 1181
+- 2022-06-10T16:07:21.3092716+07:00 GET /api/account/organizations 
+- 2022-06-10T16:07:48.5419691+07:00 POST /api/account/switchorganization 1193
+- 2022-06-10T16:07:57.5923353+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: d7332b99-9660-4144-879b-7ac87b68255f
+- 2022-06-10T16:24:32.4720125+07:00 GET /api/account/organizations 
+- 2022-06-10T16:29:44.5237702+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 1ce2d2e8-c761-486d-8225-519e1e1aeb32
+[INF][Fingov] UserId: 5bcd6683-589e-4c3d-b3d7-b94ebe21f5e1
+- 2022-06-10T16:35:14.2749730+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 33f2b8eb-ed45-4664-aec6-ca44e8864684
+- 2022-06-10T16:49:21.9411917+07:00 GET /api/account/organizations 
+- 2022-06-10T16:51:23.5325205+07:00 GET /api/account/organizations 
+- 2022-06-10T16:51:29.9097248+07:00 POST /api/account/switchorganization 1149
+- 2022-06-10T16:59:07.0903277+07:00 GET /api/account/organizations 
+- 2022-06-10T17:05:58.8063696+07:00 GET /api/account/organizations 
+- 2022-06-10T17:25:38.6889809+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 824344d9-e296-4f48-b4d3-75db5286d3fc
+- 2022-06-11T08:17:11.4939188+07:00 GET /api/account/organizations 
+- 2022-06-11T08:17:13.6483495+07:00 GET /api/account/organizations 
+- 2022-06-11T08:17:54.9232439+07:00 POST /api/account/switchorganization 1178
+- 2022-06-11T08:17:57.3992167+07:00 GET /api/account/organizations 
+- 2022-06-11T08:22:42.6349898+07:00 GET /api/account/organizations 
+- 2022-06-11T08:24:11.2935188+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 33f2b8eb-ed45-4664-aec6-ca44e8864684
+- 2022-06-11T08:26:33.1277787+07:00 POST /api/account/switchorganization 1119
+- 2022-06-11T08:43:26.1187010+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: b804ec59-750b-4088-97a6-6498ca76de23
+- 2022-06-11T09:16:45.1124903+07:00 POST /api/account/switchorganization 1149
+- 2022-06-11T09:16:52.2834752+07:00 GET /api/account/organizations 
+- 2022-06-11T09:16:59.3506111+07:00 POST /api/account/switchorganization 1180
+- 2022-06-11T09:17:33.2178354+07:00 GET /api/account/organizations 
+- 2022-06-11T09:20:14.6068526+07:00 POST /api/account/switchorganization 1172
+- 2022-06-11T09:20:19.0433975+07:00 GET /api/account/organizations 
+- 2022-06-11T09:46:13.2902592+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 2c3cd500-e585-49a0-a8a9-4ffdc8ed5fb1
+- 2022-06-11T09:48:12.1716845+07:00 GET /api/account/organizations 
+- 2022-06-11T09:58:29.7955373+07:00 GET /api/account/organizations 
+- 2022-06-11T10:48:47.0124623+07:00 GET /api/account/organizations 
+- 2022-06-11T11:55:56.0232745+07:00 GET /api/account/organizations 
+- 2022-06-11T11:57:57.9172937+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: e16382d0-153b-4cad-8ce3-87d145bd6521
+- 2022-06-12T08:56:35.9513363+07:00 GET /api/account/organizations 
+- 2022-06-12T09:55:11.7691547+07:00 GET /api/account/organizations 
+- 2022-06-12T12:37:45.4786307+07:00 GET /api/account/organizations 
+- 2022-06-12T12:38:04.0050767+07:00 POST /api/account/switchorganization 1201
+- 2022-06-12T12:38:05.6567812+07:00 GET /api/account/organizations 
+- 2022-06-12T12:40:48.4196592+07:00 GET /api/account/organizations 
+- 2022-06-13T07:08:02.9604533+07:00 GET /api/account/organizations 
+- 2022-06-13T07:08:05.0280254+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 1fbe4f0e-5cc7-4fb2-840a-d27d8ecc5458
+- 2022-06-13T08:00:56.9073878+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-13T08:01:01.2875894+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 34ae13a6-514f-47a6-9b7f-94e366fd44fd
+- 2022-06-13T08:02:19.1287125+07:00 POST /api/servey/updatecancelcount 595
+- 2022-06-13T08:03:18.6693265+07:00 GET /api/account/organizations 
+- 2022-06-13T08:09:23.6158964+07:00 POST /api/servey/updatecancelcount 601
+- 2022-06-13T08:10:39.2004775+07:00 GET /api/account/organizations 
+- 2022-06-13T08:12:45.0753997+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: c97cfc9e-bb0d-428f-8fb5-8ea9ab3e0e07
+- 2022-06-13T08:15:10.9860186+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: c97cfc9e-bb0d-428f-8fb5-8ea9ab3e0e07
+- 2022-06-13T08:24:26.2077811+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: aabf0ea3-00c3-4ca7-bd73-2dcb9d42e977
+[INF][Fingov] UserId: 221af83f-946e-42d5-90be-9e5b31713899
+- 2022-06-13T08:27:06.4363611+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-13T08:27:52.9639101+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 483f3f8e-d536-496e-b43e-e16458ec7e14
+- 2022-06-13T08:28:35.2247152+07:00 POST /api/account/switchorganization 1157
+- 2022-06-13T08:28:47.1857426+07:00 POST /api/account/switchorganization 1157
+- 2022-06-13T08:28:50.6326947+07:00 GET /api/account/organizations 
+- 2022-06-13T08:29:15.0936386+07:00 POST /api/account/switchorganization 1157
+- 2022-06-13T08:29:23.6098283+07:00 POST /api/account/switchorganization 1161
+- 2022-06-13T08:29:23.8258259+07:00 GET /api/account/organizations 
+- 2022-06-13T08:29:59.6703687+07:00 GET /api/account/organizations 
+- 2022-06-13T08:30:19.5394088+07:00 GET /api/account/organizations 
+- 2022-06-13T08:30:23.8377616+07:00 GET /api/account/organizations 
+- 2022-06-13T08:30:42.5606644+07:00 GET /api/account/organizations 
+- 2022-06-13T08:31:45.0435854+07:00 GET /api/account/organizations 
+- 2022-06-13T08:32:53.6389786+07:00 GET /api/account/organizations 
+- 2022-06-13T08:33:55.2954244+07:00 POST /api/account/switchorganization 1157
+- 2022-06-13T08:34:04.6977581+07:00 POST /api/account/switchorganization 1157
+- 2022-06-13T08:34:12.4130915+07:00 GET /api/account/organizations 
+- 2022-06-13T08:34:43.0244004+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-13T08:36:48.0870781+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 824344d9-e296-4f48-b4d3-75db5286d3fc
+- 2022-06-13T08:42:16.0168792+07:00 GET /api/account/organizations 
+- 2022-06-13T08:46:40.3213048+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+- 2022-06-13T08:47:39.5314079+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: c97cfc9e-bb0d-428f-8fb5-8ea9ab3e0e07
+- 2022-06-13T08:48:17.2418388+07:00 GET /api/account/organizations 
+- 2022-06-13T08:48:28.9527012+07:00 GET /api/account/organizations 
+- 2022-06-13T08:49:02.7741256+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 8cfcc895-7912-4746-ba0f-c84f04943169
+- 2022-06-13T08:52:39.6578028+07:00 GET /api/account/organizations 
+- 2022-06-13T08:52:45.1607668+07:00 GET /api/account/organizations 
+- 2022-06-13T08:53:01.8944785+07:00 POST /api/account/switchorganization 1207
+- 2022-06-13T08:53:19.7877362+07:00 GET /api/account/organizations 
+- 2022-06-13T08:53:21.8433467+07:00 GET /api/account/organizations 
+- 2022-06-13T08:55:45.4729712+07:00 GET /api/account/misaidaction 
+- 2022-06-13T09:00:12.3122176+07:00 GET /api/account/organizations 
+- 2022-06-13T09:02:15.3747505+07:00 GET /api/account/organizations 
+- 2022-06-13T09:02:20.1869943+07:00 GET /api/account/organizations 
+- 2022-06-13T09:02:52.9876696+07:00 POST /api/account/switchorganization 1181
+- 2022-06-13T09:03:11.4907590+07:00 POST /api/account/switchorganization 1181
+- 2022-06-13T09:03:14.3081363+07:00 GET /api/account/organizations 
+- 2022-06-13T09:09:10.5764695+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: d7332b99-9660-4144-879b-7ac87b68255f
+- 2022-06-13T09:11:05.8571682+07:00 GET /api/account/organizations 
+- 2022-06-13T09:16:15.0792493+07:00 POST /api/account/switchorganization 1099
+- 2022-06-13T09:16:29.6598333+07:00 GET /api/account/organizations 
+- 2022-06-13T09:16:33.5760247+07:00 GET /api/account/organizations 
+- 2022-06-13T09:19:01.1458670+07:00 GET /api/account/organizations 
+- 2022-06-13T09:22:41.2234256+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 221af83f-946e-42d5-90be-9e5b31713899
+- 2022-06-13T09:39:19.6498913+07:00 GET /api/account/organizations 
+- 2022-06-13T09:43:09.1890028+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 97dc6dd5-db0b-496a-9e8e-018ac9185238
+- 2022-06-13T09:46:59.2061330+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: ea4fbb00-5a30-4a0f-9377-2daac2d17fdd
+- 2022-06-13T09:48:05.6582256+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+- 2022-06-13T09:48:20.3485215+07:00 GET /api/account/organizations 
+- 2022-06-13T09:48:22.4673706+07:00 GET /api/account/organizations 
+- 2022-06-13T09:51:16.0427887+07:00 POST /api/account/switchorganization 1207
+- 2022-06-13T09:51:19.7739941+07:00 GET /api/account/organizations 
+- 2022-06-13T09:51:23.5322950+07:00 GET /api/account/organizations 
+- 2022-06-13T09:51:23.9106693+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-13T09:51:25.3880872+07:00 GET /api/account/organizations 
+- 2022-06-13T09:55:42.1478296+07:00 GET /api/account/organizations 
+- 2022-06-13T09:58:23.5991602+07:00 GET /api/account/organizations 
+- 2022-06-13T09:59:00.5294671+07:00 POST /api/account/switchorganization 1149
+- 2022-06-13T09:59:03.3608265+07:00 GET /api/account/organizations 
+- 2022-06-13T09:59:09.7574494+07:00 GET /api/account/organizations 
+- 2022-06-13T10:03:43.2818628+07:00 GET /api/account/organizations 
+- 2022-06-13T10:05:14.7834807+07:00 GET /api/account/organizations 
+- 2022-06-13T10:05:17.2930951+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 9c0fdec4-1c75-45b8-b657-ac26ce6ee6f4
+- 2022-06-13T10:09:45.9296288+07:00 GET /api/account/organizations 
+- 2022-06-13T10:11:01.9266704+07:00 GET /api/account/organizations 
+- 2022-06-13T10:16:09.5942239+07:00 POST /api/account/switchorganization 1206
+- 2022-06-13T10:16:25.8658260+07:00 GET /api/account/organizations 
+- 2022-06-13T10:17:54.3247998+07:00 POST /api/account/switchorganization 1181
+- 2022-06-13T10:18:08.0575194+07:00 POST /api/account/switchorganization 1149
+- 2022-06-13T10:19:14.7376022+07:00 POST /api/account/switchorganization 1149
+- 2022-06-13T10:19:16.8452022+07:00 GET /api/account/organizations 
+- 2022-06-13T10:20:07.7911571+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: e7bd47aa-c37a-451a-87b0-83d1a3316533
+- 2022-06-13T10:21:25.5675326+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+- 2022-06-13T10:22:59.9498457+07:00 GET /api/account/organizations 
+- 2022-06-13T10:23:06.7641242+07:00 POST /api/account/switchorganization 1181
+- 2022-06-13T10:23:15.0930357+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-13T10:25:20.9620466+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 221af83f-946e-42d5-90be-9e5b31713899
+- 2022-06-13T10:27:03.7223911+07:00 POST /api/account/switchorganization 1204
+- 2022-06-13T10:27:08.3269118+07:00 GET /api/account/organizations 
+- 2022-06-13T10:27:31.4658535+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: f7fe7b59-5b98-47d2-8185-c6e7c148eeaa
+- 2022-06-13T10:28:16.2291448+07:00 GET /api/account/organizations 
+- 2022-06-13T10:29:44.7119022+07:00 GET /api/account/organizations 
+- 2022-06-13T10:30:21.2309796+07:00 GET /api/account/organizations 
+- 2022-06-13T10:31:05.1753386+07:00 GET /api/account/organizations 
+- 2022-06-13T10:31:15.5325135+07:00 GET /api/account/organizations 
+- 2022-06-13T10:31:38.8356459+07:00 GET /api/account/organizations 
+- 2022-06-13T10:31:46.1925755+07:00 GET /api/account/organizations 
+- 2022-06-13T10:32:11.2956429+07:00 GET /api/account/organizations 
+- 2022-06-13T10:33:01.2002401+07:00 GET /api/account/organizations 
+- 2022-06-13T10:33:58.1911636+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5b4e0d6f-60e6-44b0-b9ca-2bd21ee7bab6
+[INF][Fingov] UserId: edd2069e-1e85-4918-baf2-7d41ed6a9c2c
+- 2022-06-13T10:38:47.3215519+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: ef867cad-a057-4e7f-8f6b-96eda294a28b
+[INF][Fingov] UserId: 5b4e0d6f-60e6-44b0-b9ca-2bd21ee7bab6
+[INF][Fingov] UserId: 84c4bed5-a0ca-43df-a33a-bdcf861ed0b7
+- 2022-06-13T10:39:14.2649700+07:00 GET /api/account/organizations 
+- 2022-06-13T10:43:00.4525022+07:00 POST /api/account/switchorganization 1134
+- 2022-06-13T10:43:13.0782035+07:00 GET /api/account/organizations 
+- 2022-06-13T10:44:29.4018016+07:00 GET /api/account/organizations 
+- 2022-06-13T10:44:51.8452497+07:00 GET /api/account/organizations 
+- 2022-06-13T10:44:59.5603576+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: aae6d41b-5d6f-4bc4-8460-210445b6f2e4
+- 2022-06-13T10:47:21.9449754+07:00 GET /api/account/organizations 
+- 2022-06-13T10:47:25.1784485+07:00 GET /api/account/organizations 
+- 2022-06-13T10:48:55.3802311+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 62cad64e-237e-43f8-be07-9b64b92a56b5
+- 2022-06-13T10:54:59.5180515+07:00 GET /api/account/organizations 
+- 2022-06-13T10:55:38.4608110+07:00 GET /api/account/organizations 
+- 2022-06-13T11:01:51.8220335+07:00 GET /api/account/organizations 
+- 2022-06-13T11:04:15.4497544+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: e16382d0-153b-4cad-8ce3-87d145bd6521
+- 2022-06-13T11:06:28.8292374+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 2c435272-191f-4b82-b5e5-028cdaefc603
+- 2022-06-13T11:11:33.3022689+07:00 GET /api/account/organizations 
+- 2022-06-13T11:12:21.3643612+07:00 GET /api/account/organizations 
+- 2022-06-13T11:13:07.0399701+07:00 GET /api/account/organizations 
+- 2022-06-13T11:13:51.2824905+07:00 GET /api/account/organizations 
+- 2022-06-13T11:13:56.8680428+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-13T11:14:00.5170857+07:00 GET /api/account/organizations 
+- 2022-06-13T11:14:20.7819935+07:00 GET /api/account/organizations 
+- 2022-06-13T11:19:27.0936968+07:00 GET /api/account/organizations 
+- 2022-06-13T11:19:53.0981429+07:00 GET /api/account/organizations 
+- 2022-06-13T11:21:28.3048257+07:00 GET /api/account/organizations 
+- 2022-06-13T11:22:53.3696398+07:00 POST /api/account/switchorganization 1099
+- 2022-06-13T11:22:59.2767667+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-13T11:23:01.1472981+07:00 GET /api/account/organizations 
+- 2022-06-13T11:24:46.1519625+07:00 POST /api/account/switchorganization 1198
+- 2022-06-13T11:24:53.5335278+07:00 GET /api/account/organizations 
+- 2022-06-13T11:25:44.0609227+07:00 POST /api/account/switchorganization 1198
+- 2022-06-13T11:25:46.5530870+07:00 GET /api/account/organizations 
+- 2022-06-13T11:26:18.5253810+07:00 GET /api/account/organizations 
+- 2022-06-13T11:26:19.5535240+07:00 GET /api/account/organizations 
+- 2022-06-13T11:28:31.4569430+07:00 GET /api/account/organizations 
+- 2022-06-13T11:56:25.8063546+07:00 GET /api/account/organizations 
+- 2022-06-13T13:00:42.4595935+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 1fbe4f0e-5cc7-4fb2-840a-d27d8ecc5458
+- 2022-06-13T13:32:46.6943453+07:00 GET /api/account/organizations 
+- 2022-06-13T13:34:19.1926048+07:00 GET /api/account/organizations 
+- 2022-06-13T13:35:14.8342726+07:00 GET /api/account/organizations 
+- 2022-06-13T13:36:02.4589731+07:00 GET /api/account/organizations 
+- 2022-06-13T13:38:18.4815628+07:00 POST /api/account/switchorganization 1165
+- 2022-06-13T13:38:21.1678949+07:00 GET /api/account/organizations 
+- 2022-06-13T13:40:25.4950541+07:00 POST /api/servey/updatecancelcount 614
+- 2022-06-13T13:40:26.5253584+07:00 GET /api/account/organizations 
+- 2022-06-13T13:41:50.7418833+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 022464e7-9a9d-4158-96e6-2f30e8904809
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+- 2022-06-13T13:42:49.1944786+07:00 GET /api/account/organizations 
+- 2022-06-13T13:44:18.1165447+07:00 GET /api/account/organizations 
+- 2022-06-13T13:45:26.9299009+07:00 GET /api/account/organizations 
+- 2022-06-13T13:46:37.2292534+07:00 GET /api/account/organizations 
+- 2022-06-13T13:47:15.1113562+07:00 GET /api/account/organizations 
+- 2022-06-13T13:48:41.6710797+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: ab6456cb-243d-431e-9081-ab378b658e6f
+- 2022-06-13T13:49:37.4001837+07:00 GET /api/account/organizations 
+- 2022-06-13T13:50:49.5624272+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 84c4bed5-a0ca-43df-a33a-bdcf861ed0b7
+- 2022-06-13T13:53:57.5976485+07:00 GET /api/account/organizations 
+- 2022-06-13T13:57:00.3782035+07:00 GET /api/account/organizations 
+- 2022-06-13T13:57:14.9093713+07:00 POST /api/account/switchorganization 1149
+- 2022-06-13T13:57:29.3210260+07:00 GET /api/account/organizations 
+- 2022-06-13T13:59:25.8715351+07:00 POST /api/account/switchorganization 1157
+- 2022-06-13T14:03:36.0270173+07:00 GET /api/account/organizations 
+- 2022-06-13T14:03:43.8458056+07:00 POST /api/account/switchorganization 1134
+- 2022-06-13T14:03:46.7881328+07:00 GET /api/account/organizations 
+- 2022-06-13T14:05:41.7224813+07:00 GET /api/account/organizations 
+- 2022-06-13T14:08:36.9926098+07:00 POST /api/account/switchorganization 1119
+- 2022-06-13T14:08:40.6530359+07:00 GET /api/account/organizations 
+- 2022-06-13T14:08:41.6587326+07:00 GET /api/account/organizations 
+- 2022-06-13T14:10:36.4640702+07:00 GET /api/account/organizations 
+- 2022-06-13T14:10:44.2187997+07:00 GET /api/account/organizations 
+- 2022-06-13T14:11:43.8006301+07:00 GET /api/account/organizations 
+- 2022-06-13T14:11:46.8807775+07:00 GET /api/account/organizations 
+- 2022-06-13T14:14:09.8401287+07:00 GET /api/account/organizations 
+- 2022-06-13T14:15:00.5709379+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: d7332b99-9660-4144-879b-7ac87b68255f
+- 2022-06-13T14:19:17.9679175+07:00 GET /api/account/organizations 
+- 2022-06-13T14:19:29.3907267+07:00 POST /api/account/switchorganization 1162
+- 2022-06-13T14:19:37.5642597+07:00 POST /api/account/switchorganization 1162
+- 2022-06-13T14:19:44.1930091+07:00 GET /api/account/organizations 
+- 2022-06-13T14:20:02.0127908+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: cc3d3869-600d-468d-9e5d-1235cf631a93
+[INF][Fingov] UserId: 1452f5d3-6f34-4c88-874b-80f51f29342a
+- 2022-06-13T14:24:58.4962385+07:00 GET /api/account/organizations 
+- 2022-06-13T14:25:03.7347027+07:00 POST /api/servey/updatecancelcount 625
+- 2022-06-13T14:27:01.9001627+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 9c0fdec4-1c75-45b8-b657-ac26ce6ee6f4
+[INF][Fingov] UserId: 824344d9-e296-4f48-b4d3-75db5286d3fc
+- 2022-06-13T14:30:41.2392274+07:00 GET /api/account/organizations 
+- 2022-06-13T14:30:55.8481097+07:00 GET /api/account/organizations 
+- 2022-06-13T14:31:03.5225299+07:00 GET /api/account/organizations 
+- 2022-06-13T14:33:52.2017326+07:00 GET /api/account/organizations 
+- 2022-06-13T14:33:57.8467218+07:00 GET /api/account/organizations 
+- 2022-06-13T14:34:21.3562171+07:00 POST /api/account/switchorganization 1149
+- 2022-06-13T14:34:30.5422366+07:00 POST /api/account/switchorganization 1149
+[INF][Fingov] UserId: 0126f7bb-3247-4e1a-b375-10fe3f811cfe
+- 2022-06-13T14:37:02.6195437+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 2c435272-191f-4b82-b5e5-028cdaefc603
+- 2022-06-13T14:43:54.2521897+07:00 GET /api/account/organizations 
+- 2022-06-13T14:44:09.5819831+07:00 GET /api/account/organizations 
+- 2022-06-13T14:44:56.6270823+07:00 GET /api/account/organizations 
+- 2022-06-13T14:45:02.4003638+07:00 GET /api/account/organizations 
+- 2022-06-13T14:45:12.0038351+07:00 GET /api/account/organizations 
+- 2022-06-13T14:45:27.0559232+07:00 GET /api/account/organizations 
+- 2022-06-13T14:46:58.4524301+07:00 POST /api/account/switchorganization 1162
+- 2022-06-13T14:52:19.4044070+07:00 GET /api/account/organizations 
+- 2022-06-13T14:58:55.7631740+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 7741911d-10e4-4926-909d-3107d765656b
+- 2022-06-13T15:04:35.7899485+07:00 GET /api/account/organizations 
+- 2022-06-13T15:07:03.0939726+07:00 GET /api/account/organizations 
+- 2022-06-13T15:10:29.4706857+07:00 POST /api/servey/updatecancelcount 615
+- 2022-06-13T15:10:31.3230968+07:00 POST /api/servey/updatecancelcount 615
+- 2022-06-13T15:12:05.0487405+07:00 GET /api/account/organizations 
+- 2022-06-13T15:14:56.6707577+07:00 GET /api/account/organizations 
+- 2022-06-13T15:21:20.2293766+07:00 GET /api/account/organizations 
+- 2022-06-13T15:24:40.5786029+07:00 GET /api/account/organizations 
+- 2022-06-13T15:27:00.2053548+07:00 GET /api/account/organizations 
+- 2022-06-13T15:31:42.6015202+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+- 2022-06-13T15:35:54.9770387+07:00 GET /api/account/organizations 
+- 2022-06-13T15:42:52.4153014+07:00 GET /api/account/organizations 
+- 2022-06-13T15:43:36.7038218+07:00 GET /api/account/organizations 
+- 2022-06-13T15:44:09.1124621+07:00 GET /api/account/organizations 
+- 2022-06-13T15:45:00.2256217+07:00 GET /api/account/organizations 
+- 2022-06-13T15:47:30.8727149+07:00 GET /api/account/organizations 
+- 2022-06-13T15:48:15.4588598+07:00 GET /api/account/organizations 
+- 2022-06-13T15:49:00.6693611+07:00 GET /api/account/organizations 
+- 2022-06-13T15:49:32.4890518+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 4b73f31c-5643-44b9-99b8-d2cf89c9a4ad
+- 2022-06-13T15:53:25.6285105+07:00 GET /api/account/organizations 
+- 2022-06-13T15:56:16.9679883+07:00 GET /api/account/organizations 
+- 2022-06-13T15:59:09.1441311+07:00 GET /api/account/organizations 
+- 2022-06-13T16:15:17.4157964+07:00 GET /api/account/organizations 
+- 2022-06-13T16:22:31.5577895+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 9c0fdec4-1c75-45b8-b657-ac26ce6ee6f4
+- 2022-06-13T16:27:08.4277593+07:00 GET /api/account/organizations 
+- 2022-06-13T16:31:16.7084317+07:00 GET /api/account/organizations 
+- 2022-06-13T16:31:25.5022320+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-13T16:31:27.3660645+07:00 GET /api/account/organizations 
+- 2022-06-13T16:33:33.5956123+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5dd1a005-c48a-4aa6-9183-c7a9f899fb1d
+- 2022-06-13T16:34:40.3050658+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 1a664f2f-45e5-4cb7-8354-c50857d91866
+[INF][Fingov] UserId: f76abc86-b5f5-4e86-a940-62ea3ef90840
+- 2022-06-13T16:58:51.7433994+07:00 GET /api/account/organizations 
+- 2022-06-13T17:20:29.6064594+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 0fcdeb90-7529-4269-82bb-bf14bc9b3a24
+- 2022-06-13T17:25:47.4068833+07:00 GET /api/account/organizations 
+- 2022-06-13T17:26:38.2745228+07:00 GET /api/account/organizations 
+- 2022-06-13T17:32:54.6634460+07:00 GET /api/account/organizations 
+- 2022-06-13T17:34:58.1896832+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: eb684cc8-95b9-49e5-9f49-c4da4ee53622
+[INF][Fingov] UserId: 0fcdeb90-7529-4269-82bb-bf14bc9b3a24
+- 2022-06-13T17:46:09.2453102+07:00 GET /api/account/organizations 
+- 2022-06-13T17:50:07.1643984+07:00 GET /api/account/organizations 
+- 2022-06-13T17:58:54.4555528+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 20d59ae4-5500-4107-9f2e-d282476e7cb6
+[INF][Fingov] UserId: aabf0ea3-00c3-4ca7-bd73-2dcb9d42e977
+[INF][Fingov] UserId: 835e7eab-b34d-48ad-9bb6-98c2761fc42e
+- 2022-06-13T21:01:38.9237869+07:00 GET /api/account/organizations 
+- 2022-06-13T21:06:33.9033794+07:00 GET /api/account/organizations 
+- 2022-06-13T22:24:40.6455312+07:00 GET /api/account/organizations 
+- 2022-06-13T22:25:03.0815390+07:00 POST /api/account/switchorganization 1207
+- 2022-06-13T22:25:13.5236143+07:00 GET /api/account/organizations 
+- 2022-06-13T22:25:13.8472591+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-13T23:03:20.3184166+07:00 GET /api/account/organizations 
+- 2022-06-14T06:33:34.6312016+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: ef40a559-dfef-412e-9e6e-0aaf852b8765
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-14T07:42:51.3564146+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 9c0fdec4-1c75-45b8-b657-ac26ce6ee6f4
+[INF][Fingov] UserId: 1fbe4f0e-5cc7-4fb2-840a-d27d8ecc5458
+[INF][Fingov] UserId: 872824b4-4f41-4f7d-9f31-44e72a6bf9ea
+[INF][Fingov] UserId: 9bf8c892-fb23-4530-af48-be842aadc3bd
+[INF][Fingov] UserId: 3e491cc7-daee-4548-9052-a709d015ca06
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+2022-06-14 08:10:28.5443|0|ERROR|MISA.X1.Library.Services.LogService|Can not call http request. System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at MISA.X1.Library.Services.MISAHttpClientService.SendHttpRequestAsync(String apiUrl, Object param, Dictionary`2 headers, HttpMethod method, String mediaType)|MISA.X1.Library.Services.LogService.LogError
+2022-06-14 08:10:28.5537|0|ERROR|MISA.X1.Library.Services.LogService|Không thể lấy thỏa thuận sử dụng ms nhất |MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+2022-06-14 08:12:32.4909|0|ERROR|MISA.X1.Library.Services.LogService|Can not call http request. System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at MISA.X1.Library.Services.MISAHttpClientService.SendHttpRequestAsync(String apiUrl, Object param, Dictionary`2 headers, HttpMethod method, String mediaType)|MISA.X1.Library.Services.LogService.LogError
+2022-06-14 08:12:32.4936|0|ERROR|MISA.X1.Library.Services.LogService|Không thể lấy thỏa thuận sử dụng ms nhất |MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+2022-06-14 08:15:14.1234|0|ERROR|MISA.X1.Library.Services.LogService|Can not call http request. System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: The response ended prematurely.
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at MISA.X1.Library.Services.MISAHttpClientService.SendHttpRequestAsync(String apiUrl, Object param, Dictionary`2 headers, HttpMethod method, String mediaType)|MISA.X1.Library.Services.LogService.LogError
+2022-06-14 08:15:14.1260|0|ERROR|MISA.X1.Library.Services.LogService|Không thể lấy thỏa thuận sử dụng ms nhất |MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: 0849e495-abc3-4e28-9aa4-5073ed6792b8
+[INF][Fingov] UserId: 83957585-61d0-479d-8f73-d2e355b61e4f
+- 2022-06-14T08:17:48.2413449+07:00 GET /api/account/organizations 
+2022-06-14 08:18:09.5726|0|ERROR|MISA.X1.Library.Services.LogService|Can not call http request. System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at MISA.X1.Library.Services.MISAHttpClientService.SendHttpRequestAsync(String apiUrl, Object param, Dictionary`2 headers, HttpMethod method, String mediaType)|MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: 8a78bf6f-124c-4e40-b900-961324337e0c
+- 2022-06-14T08:18:34.7055596+07:00 GET /api/account/organizations 
+- 2022-06-14T08:18:38.5383047+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+[INF][Fingov] UserId: 5f69d9df-43e8-46c4-adf6-e51a33deb45c
+- 2022-06-14T08:19:52.7708552+07:00 GET /api/account/organizations 
+- 2022-06-14T08:19:55.7866840+07:00 GET /api/account/organizations 
+- 2022-06-14T08:20:42.9324683+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 4b3597c8-e707-4ae0-a9f7-f7e170ab5874
+[INF][Fingov] UserId: c97cfc9e-bb0d-428f-8fb5-8ea9ab3e0e07
+- 2022-06-14T08:22:17.2530344+07:00 POST /api/account/showlicenseagreement 2
+[INF][Fingov] UserId: c97cfc9e-bb0d-428f-8fb5-8ea9ab3e0e07
+2022-06-14 08:23:50.1394|0|ERROR|MISA.X1.Library.Services.LogService|Can not call http request. System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at MISA.X1.Library.Services.MISAHttpClientService.SendHttpRequestAsync(String apiUrl, Object param, Dictionary`2 headers, HttpMethod method, String mediaType)|MISA.X1.Library.Services.LogService.LogError
+2022-06-14 08:23:50.1445|0|ERROR|MISA.X1.Library.Services.LogService|Không thể lấy thỏa thuận sử dụng ms nhất |MISA.X1.Library.Services.LogService.LogError
+[INF][Fingov] UserId: 8cfcc895-7912-4746-ba0f-c84f04943169
+[INF][Fingov] UserId: 8cfcc895-7912-4746-ba0f-c84f04943169
+[INF][Fingov] UserId: 0fcdeb90-7529-4269-82bb-bf14bc9b3a24
+- 2022-06-14T08:25:52.7457454+07:00 POST /api/account/switchorganization 1149
+- 2022-06-14T08:26:39.0111398+07:00 GET /api/account/organizations 
+- 2022-06-14T08:26:49.4797603+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 0d15615c-a34b-4942-8cb4-15024bb8d268
+- 2022-06-14T08:27:51.0535532+07:00 GET /api/account/organizations 
+- 2022-06-14T08:28:15.9369916+07:00 POST /api/account/switchorganization 1181
+- 2022-06-14T08:29:01.2015388+07:00 GET /api/account/organizations 
+- 2022-06-14T08:29:05.6851773+07:00 GET /api/account/organizations 
+- 2022-06-14T08:29:05.9441918+07:00 GET /api/account/organizations 
+2022-06-14 08:29:10.2915|0|ERROR|MISA.X1.Library.Services.LogService|Can not call http request. System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at MISA.X1.Library.Services.MISAHttpClientService.SendHttpRequestAsync(String apiUrl, Object param, Dictionary`2 headers, HttpMethod method, String mediaType)|MISA.X1.Library.Services.LogService.LogError
+2022-06-14 08:29:10.2938|0|ERROR|MISA.X1.Library.Services.LogService|Không thể lấy thỏa thuận sử dụng ms nhất |MISA.X1.Library.Services.LogService.LogError
+- 2022-06-14T08:29:27.1510000+07:00 GET /api/account/organizations 
+- 2022-06-14T08:29:44.6538468+07:00 GET /api/account/organizations 
+2022-06-14 08:29:57.1683|0|ERROR|MISA.X1.Library.Services.LogService|Can not call http request. System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at MISA.X1.Library.Services.MISAHttpClientService.SendHttpRequestAsync(String apiUrl, Object param, Dictionary`2 headers, HttpMethod method, String mediaType)|MISA.X1.Library.Services.LogService.LogError
+2022-06-14 08:29:57.1717|0|ERROR|MISA.X1.Library.Services.LogService|Không thể lấy thỏa thuận sử dụng ms nhất |MISA.X1.Library.Services.LogService.LogError
+- 2022-06-14T08:29:57.3793082+07:00 GET /api/account/organizations 
+- 2022-06-14T08:30:14.8911087+07:00 GET /api/account/organizations 
+- 2022-06-14T08:30:15.2450818+07:00 POST /api/account/showlicenseagreement 2
+- 2022-06-14T08:30:40.0986951+07:00 POST /api/account/switchorganization 1149
+- 2022-06-14T08:31:15.1672631+07:00 GET /api/account/organizations 
+[INF][Fingov] UserId: 48b94b24-1152-44cd-b925-da1e5500e7cf
